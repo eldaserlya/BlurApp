@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aplikasi Blur-O-Matic</string>
+
+    <!-- Title -->
+    <string name="blur_title">Pilih Tingkat Keburaman</string>
+
+    <!-- Buttons -->
+    <string name="select_image">Pilih Gambar</string>
+    <string name="start">Mulai</string>
+    <string name="see_file">Lihat File Gambar</string>
+
+    <!-- Content description -->
+    <string name="description_image">Gambar diburamkan dan disimpan.</string>
+
+    <!-- Blur levels -->
+    <string name="blur_lv_1">Sedikit buram</string>
+    <string name="blur_lv_2">Lebih buram</string>
+    <string name="blur_lv_3">Paling buram</string>
+    <string name="cancel_work">Batalkan pemburaman</string>
+
+    <!-- Messages -->
+    <string name="set_permissions_in_settings">Buka Pengaturan -> Aplikasi dan Pemberitahuan ->
+        Demo WorkManager -> Izin Aplikasi dan berikan akses ke Penyimpanan.</string>
+
+    <!-- Notification -->
+    <string name="blurring_image">Gambar Buram</string>
+    <string name="saving_image">Menyimpan Gambar</string>
+    <string name="cleaning_up_files">Membersihkan sementara file-file lama</string>
+
+    <!-- Errors -->
+    <string name="invalid_input_uri">uri yang dimasukkan tidak valid</string>
+    <string name="error_applying_blur">Kesalahan penerapan keburaman</string>
+    <string name="writing_to_mediaStore_failed">Gagal menulis ke mediaStore</string>
+    <string name="error_saving_image">Gagal menyimpan gambar</string>
+    <string name="error_cleaning_file">Gagal membersihkan file-file lama</string>
+</resources>
